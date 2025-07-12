@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="80dp"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/usernameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="ユーザー名"
+        android:inputType="textPersonName"/>
+
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="パスワード"
+        android:inputType="textPassword"/>
+
+    <RadioGroup
+        android:id="@+id/selectRadio"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/sellerRadio"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:text="売り手"></RadioButton>
+
+        <RadioButton
+            android:id="@+id/buyerRadio"
+            android:layout_width="200dp"
+            android:layout_height="30dp"
+            android:text="買い手"></RadioButton>
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="登録"/>
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ログイン画面へ"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_check_stock.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_check_stock.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_buyer.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_buyer.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_item_entry.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_item_entry.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_loginsuccess.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_loginsuccess.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_add_store.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_add_store.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_main.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_stock_list.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_stock_list.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/item_stock.xml",
+        "source": "com.example.aluka.app-main-77:/layout/item_stock.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_signup.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_login.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_seller.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_seller.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_search_result.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_search_result.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-mergeDebugResources-74:/layout/activity_barcodereader.xml",
+        "source": "com.example.aluka.app-main-77:/layout/activity_barcodereader.xml"
+    }
+]

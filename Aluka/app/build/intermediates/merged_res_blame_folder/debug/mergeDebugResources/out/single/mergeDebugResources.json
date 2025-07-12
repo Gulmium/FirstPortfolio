@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_loginsuccess.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_loginsuccess.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_item_stock.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/item_stock.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_seller.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_seller.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_search_result.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_search_result.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_add_store.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_add_store.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_check_stock.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_check_stock.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.aluka.app-main-77:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.aluka.app-main-77:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_signup.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_stock_list.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_stock_list.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_buyer.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_buyer.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_barcodereader.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_barcodereader.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/xml_backup_rules.xml.flat",
+        "source": "com.example.aluka.app-main-77:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.aluka.app-main-77:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.aluka.app-main-77:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_main.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/xml_network_security_config.xml.flat",
+        "source": "com.example.aluka.app-main-77:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_login.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.aluka.app-debug-75:/layout_activity_item_entry.xml.flat",
+        "source": "com.example.aluka.app-main-77:/layout/activity_item_entry.xml"
+    }
+]

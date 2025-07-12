@@ -1,0 +1,4 @@
+# Android build outputs
+/app/build/
+**/merged_manifests/
+**/outputs/

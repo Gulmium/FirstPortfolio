@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/itemNumberEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:hint="バーコード番号"
+        android:enabled="false" />
+
+    <EditText
+        android:id="@+id/itemNameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:hint="商品名" />
+
+    <RadioGroup
+        android:id="@+id/selectRadio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/productRadio"
+            android:tag="product"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="一般商品" />
+
+        <RadioButton
+            android:id="@+id/bookRadio"
+            android:tag="book"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="書籍" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/itemQuantityEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="追加する個数" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="送信" />
+
+</LinearLayout>
