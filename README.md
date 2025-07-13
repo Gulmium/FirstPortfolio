@@ -3,11 +3,21 @@
 
 
 ## 使用技術
-- Android Studio
-- Django REST Framework
-- MySQL
+
+### 言語
+- Python
+- Kotlin
+
+### 開発環境・ツール
+- Android Studio（IDE）
 - Docker
 
+### バックエンド技術
+- Django REST Framework
+- MySQL
+
+### 外部API
+- Maps SDK for Android
 
 
 ## ディレクトリ構成
