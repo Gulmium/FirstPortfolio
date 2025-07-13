@@ -1,6 +1,7 @@
 # Aluka
 在庫を管理し、座標とともに公開するAndroidアプリ
 
+
 ## 使用技術
 - Android Studio
 - Django REST Framework
@@ -8,7 +9,9 @@
 - Docker
 
 
+
 ## ディレクトリ構成
+
 
 ### Android側
 ```
@@ -24,6 +27,8 @@ android-project/
                 └── ui/
                     └── theme/...
 ```
+
+
 
 ### サーバー側(Django)
 ```
@@ -50,4 +55,7 @@ myproject/
 │   └── ...
 └── ...（他の補助ファイルやキャッシュ類は省略）
 ```
-構成はベストプラクティス通りのはずです。
+構成はベストプラクティス通りです。
+
+
+
