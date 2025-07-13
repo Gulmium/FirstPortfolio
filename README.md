@@ -10,9 +10,20 @@
 
 ## ディレクトリ構成
 
-
 ### Android側
-
+```
+android-project/
+└── app/
+    └── src/
+        └── main/
+            └── java/com/example/aluka/
+                ├── MainActivity.kt
+                ├── ...（複数のActivity/Fragmentを省略）
+                ├── data/...
+                ├── network/...
+                └── ui/
+                    └── theme/...
+```
 
 ### サーバー側(Django)
 ```
@@ -39,3 +50,4 @@ myproject/
 │   └── ...
 └── ...（他の補助ファイルやキャッシュ類は省略）
 ```
+構成はベストプラクティス通りのはずです。
