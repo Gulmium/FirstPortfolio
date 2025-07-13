@@ -15,10 +15,11 @@
 
 
 ### サーバー側(Django)
-'''myproject/'''
-'''├── manage.py'''
-'''├── accounts/'''
-'''│   ├── models.py'''
+```
+myproject/
+├── manage.py
+├── accounts/
+│   ├── models.py
 │   ├── views.py
 │   ├── urls.py
 │   └── serializer.py
@@ -37,3 +38,4 @@
 │   ├── urls.py
 │   └── ...
 └── ...（他の補助ファイルやキャッシュ類は省略）
+```
