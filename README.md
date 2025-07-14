@@ -125,6 +125,38 @@ sellerユーザーのマイページには、「店舗を追加」ボタンが�
 細かい説明は割愛しますが、同じ手順で比較用のseller2の、seller2_storeと在庫を登録していきます。
 店舗2の座標は南千住駅です。
 
-![店舗追加画面2](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller2/14_add_store.png?raw=true)
+![店舗追加画面2](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller2/14_add_store2.png?raw=true)
 
 ![商品追加後画面2](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller2/15_stock_list.png?raw=true)
+
+
+### buyer登録
+次は買い手、buyerの登録です。
+![サインアップ画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/buyer/17_signup_buyer.png?raw=true)
+
+
+### 商品検索画面
+buyerのマイページは商品検索の機能しかありません。任意の商品がある、一番近くの店舗を教えてくれるというシンプルな機能です。
+北千住駅にある「seller1_store」にも、南千住駅にある「seller2_store」にもある「アーモンドチョコレート」を検索してみたいと思います。
+私は北千住駅よりもっと北に住んでいるので、うまくいけば「seller1_store」が出てくるはずです。
+![商品検索画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/buyer/19_search_almond.png?raw=true)
+
+
+### アーモンドチョコレートの検索結果
+実験成功です。画面下部にトーストで店舗名も表示されます。
+![検索結果画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/buyer/20_search_almond_result.png?raw=true)
+
+
+### アーモンドクランチの検索
+次に、seller2_storeにしかないアーモンドクランチを検索してみます。
+![検索画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/buyer/21_search_crunch.png?raw=true)
+
+
+### アーモンドクランチの検索結果
+seller2_storeとその座標が無事表示されました。
+![検索画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/buyer/22_search_crunch_result.png?raw=true)
+
+
+### まとめ
+以上が、このアプリの機能となります。
+ご覧いただきありがとうございました。
