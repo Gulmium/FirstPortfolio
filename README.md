@@ -124,5 +124,7 @@ sellerユーザーのマイページには、「店舗を追加」ボタンが�
 ### seller2のseller2_storeの在庫登録
 細かい説明は割愛しますが、同じ手順で比較用のseller2の、seller2_storeと在庫を登録していきます。
 店舗2の座標は南千住駅です。
+
 ![店舗追加画面2](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller2/14_add_store.png?raw=true)
+
 ![商品追加後画面2](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller2/15_stock_list.png?raw=true)
