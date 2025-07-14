@@ -74,7 +74,15 @@ myproject/
 └── ...（他の補助ファイルやキャッシュ類は省略）
 ```
 構成はベストプラクティス通りです。
+** **
 
 ### 使い方
-![サインアップ画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller1/01_signup.png?raw=true)
+ここから、本アプリケーションの使い方を説明していきます。
+まず、seller1を登録し、店舗の座標と在庫を登録していきます。
+### ログイン画面
+![ログイン画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller1/02_login.png?raw=true)
 
+
+### ログイン後のマイページ画面
+sellerユーザーのマイページには、「店舗を追加」ボタンがあります。
+![ログイン後画面](https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller1/04_seller_activity.png?raw=true)
