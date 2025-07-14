@@ -74,3 +74,7 @@ myproject/
 └── ...（他の補助ファイルやキャッシュ類は省略）
 ```
 構成はベストプラクティス通りです。
+
+### 使い方
+![画像の説明](https://github.com/Gulmium/FirstPortfolio/edit/master/Aluka/Android/seller1/01_signup.png)
+
