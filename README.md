@@ -26,8 +26,11 @@ Webアプリの基礎は習得できたため技術の幅を広げるべく、�
 - Django REST Framework
 - MySQL
 
-### 外部API
+### 外部API・ライブラリ
 - Maps SDK for Android
+- CameraX
+- ML Kit
+  ※CameraXとML Kitはバーコードの読み取りに使用。
 ** **
 
 ## ディレクトリ構成
@@ -107,7 +110,7 @@ sellerユーザーのマイページには、「店舗を追加」ボタンが�
 
 ### 商品追加カメラ
 スクリーンショットを取り忘れてしまいましたが、店舗をタップすると今度は「商品を追加」ボタンがあります。
-それを押すとカメラが立ち上がり、Janコードを読むと「商品を登録するか」と聞いてきます。
+それを押すとカメラが立ち上がり、Janコードを読むと「商品を登録するか」と聞いてくるので入力。
 
 <img src="https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller1/09_camera.png?raw=true" alt="カメラ画面" width="400"/>
 
@@ -120,7 +123,7 @@ sellerユーザーのマイページには、「店舗を追加」ボタンが�
 
 ### 商品追加後のseller1_store
 先ほどの手順でいくつか商品を追加してみました。
-これが「seller1」が持つ「seller1_store」が持つ在庫一覧です。
+これが「seller1」が持つ「seller1_store」にある在庫一覧です。
 <img src="https://github.com/Gulmium/FirstPortfolio/blob/master/Aluka/Android/seller1/13_stock_list.png?raw=true" alt="商品追加後画面" width="400"/>
 
 
